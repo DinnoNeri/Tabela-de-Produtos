@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald:400,700');
+*
+/*forma longa, mas teria uma forma curta neste exemplo abaixo?*/
+{
+    font-family: 'Oswald', sans-serif;
+}
+.moda
+{
+    color: white;
+    background-color: #BB86FC;
+}
+.casa
+{
+    color: white;
+    background-color: #00c4b4;
+}
+body
+{
+    background: cornsilk;
+}
+td
+{
+    color: white;
+    background-color:#424250;
+}
